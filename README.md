@@ -1,9 +1,12 @@
 # EngPac_Automacoes
-Bot para implementar algumas consultas da minha rotina diária
+Automatização de Tarefas via OCC PHP
 
+"Nextcloud’s occ command (origins from “ownCloud Console”) is Nextcloud’s command-line interface. You can perform many common server operations with occ, such as installing and upgrading Nextcloud, manage users, encryption, passwords, LDAP setting, and more."
+
+Linguagens utilizadas:
 - Python
-- Autenticação no Fluig (consulta de processos)
-    > Captura de Dados no Fluig + Formatação de Dados Capturados
+- PHP
+- ShellScript
 
-- Autenticação no Nextcloud
-    >Talk + Envio de Dados capturados
+#Apresentação do menu
+Esta versão contempla o cadastro de multiplos usuários a partir de um CSV.
