@@ -8,6 +8,6 @@ Linguagens utilizadas:
 - PHP
 - ShellScript
 
-# Apresentação do menu
+#V1.0
+Esta versão contempla o cadastro de multiplos usuários, onde chamo o comando occ para cadastro de usuarios passando os dados a partir de um csv, as informações sensiveis como senhas, serão passadas via variavel de sistema e todas são geradas de forma aleatoria.
 
-Esta versão contempla o cadastro de multiplos usuários a partir de um CSV.
